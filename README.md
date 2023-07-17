@@ -10,4 +10,3 @@
 ## Sistema baseado em Laravel e InnertiaJS
 
 - Em produção!
-
